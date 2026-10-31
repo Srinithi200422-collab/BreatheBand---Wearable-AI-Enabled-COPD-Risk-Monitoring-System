@@ -1,8 +1,4 @@
 # BreatheBand---Wearable-AI-Enabled-COPD-Risk-Monitoring-System
-
-
-# BreatheBand – Wearable AI-Based COPD Risk Assessment
-
 A wearable prototype designed to explore early COPD risk assessment using physiological signals and lightweight AI.
 
 ## About the Project
@@ -60,22 +56,23 @@ The exact hardware configuration may vary between prototype revisions.
 
 ## Repository Contents
 
-```text
 BreatheBand/
 ├── README.md
 ├── COPD_Model.ipynb
-├── media/
-│   ├── prototype/
-│   │   ├── prototype_01.jpg
-│   │   └── ...
-│   ├── outputs/
-│   │   ├── output_01.png
-│   │   └── ...
-│   └── demo_video_link.md
-├── docs/
-│   └── publication.md
-└── requirements.txt
-```
+│
+├── Prototype/
+│   ├── Front_View.jpeg
+│   ├── Left_Side_View.jpeg
+│   ├── Right_Side_View.jpeg
+│   └── Back_View.jpeg
+│
+├── outputs/
+│   ├── Patient_Vitals.jpeg
+│   ├── COPD_Severity.jpeg
+│   ├── Patient_Demographics.jpeg
+│   └── working_video.mp4
+│
+
 
 The main Python file contains the AI-model implementation. The `media/` directory contains prototype photographs, sample outputs, and the demonstration video link.
 
