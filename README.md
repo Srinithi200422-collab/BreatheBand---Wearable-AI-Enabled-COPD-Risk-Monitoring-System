@@ -1,8 +1,5 @@
 # BreatheBand---Wearable-AI-Enabled-COPD-Risk-Monitoring-System
 
-
-# BreatheBand – Wearable AI-Based COPD Risk Assessment
-
 A wearable prototype designed to explore early COPD risk assessment using physiological signals and lightweight AI.
 
 ## About the Project
