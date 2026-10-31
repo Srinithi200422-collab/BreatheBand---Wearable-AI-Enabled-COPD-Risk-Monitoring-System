@@ -63,7 +63,7 @@ The exact hardware configuration may vary between prototype revisions.
 ```text
 BreatheBand/
 ├── README.md
-├── breatheband.py
+├── COPD_Model.ipynb
 ├── media/
 │   ├── prototype/
 │   │   ├── prototype_01.jpg
