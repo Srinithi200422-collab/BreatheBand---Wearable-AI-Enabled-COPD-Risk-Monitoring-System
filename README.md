@@ -55,7 +55,7 @@ The exact hardware configuration may vary between prototype revisions.
 - Embedded firmware for ESP32-based sensor acquisition
 
 ## Repository Contents
-
+'''text
 BreatheBand/
 ├── README.md
 ├── COPD_Model.ipynb
@@ -71,8 +71,7 @@ BreatheBand/
 │   ├── COPD_Severity.jpeg
 │   ├── Patient_Demographics.jpeg
 │   └── working_video.mp4
-│
-
+''' text
 
 The main Python file contains the AI-model implementation. The `media/` directory contains prototype photographs, sample outputs, and the demonstration video link.
 
