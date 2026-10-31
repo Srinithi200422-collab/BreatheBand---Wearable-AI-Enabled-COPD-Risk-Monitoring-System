@@ -78,15 +78,15 @@ The main Python file contains the AI-model implementation. The `media/` director
 
 ## Demo
 
-**Working prototype video:** [Watch the demonstration](<ADD_VIDEO_LINK>)
+The Woking video can be viewed under prototype branch.
 
 ## Prototype Images
 
-The `media/prototype/` directory contains photographs showing the BreatheBand prototype from different views.
+The `prototype/` directory contains photographs showing the BreatheBand prototype from different views.
 
 ## Sample Outputs
 
-The `media/outputs/` directory contains sample outputs generated during model testing and project demonstration.
+The `outputs/` directory contains sample outputs generated during model testing and project demonstration.
 
 These outputs illustrate the model's prediction workflow. They should not be interpreted as clinical results or medical diagnoses.
 
